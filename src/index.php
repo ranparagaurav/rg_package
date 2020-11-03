@@ -1,6 +1,6 @@
 <?php
 
-namespace rg\rg_package;
+namespace rg_ranpara\rg_package;
 
 class TestingClass
 {
