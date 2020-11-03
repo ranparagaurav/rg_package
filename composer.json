@@ -1,0 +1,11 @@
+{
+    "name": "rg/rg_package",
+    "description": "This is Testing Package",
+    "authors": [
+        {
+            "name": "Gaurav Ranpara",
+            "email": "ranparagaurav98@gmail.com"
+        }
+    ],
+    "require": {}
+}
